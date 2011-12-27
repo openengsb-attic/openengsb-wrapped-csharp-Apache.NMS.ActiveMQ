@@ -31,7 +31,7 @@
   </licenses>
   <scm>
     <connection>scm:git:git://github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.ActiveMQ.git</connection>
-    <developerConnection>scm:git:git@github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.ActiveMQ.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:openengsb/openengsb-wrapped-csharp-Apache.NMS.ActiveMQ.git</developerConnection>
     <url>https://github.com/openengsb/openengsb-wrapped-csharp-Apache.NMS.ActiveMQ</url>
   </scm>
   <modelVersion>4.0.0</modelVersion>
