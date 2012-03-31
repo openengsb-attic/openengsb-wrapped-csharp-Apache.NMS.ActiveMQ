@@ -26,7 +26,7 @@
 
   <groupId>org.openengsb.wrapped.csharp</groupId>
   <artifactId>Apache.NMS.ActiveMQ</artifactId>
-  <version>1.5.0_3</version>
+  <version>1.5.0_4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>OpenEngSB :: Maven Wrapped CSharp DLL :: Apache.NMS.ActiveMQ</name>
